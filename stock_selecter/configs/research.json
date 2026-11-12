@@ -1,0 +1,16 @@
+{
+  "top_n": 10,
+  "industry_cap": 0.3,
+  "flow_weight": 0.5,
+  "top_industries": 0,
+  "rebalance_days": 5,
+  "min_listed_days": 120,
+  "min_amount": 20000000,
+  "participation": 0.01,
+  "initial_cash": 1000000,
+  "commission": 0.0003,
+  "min_commission": 5,
+  "sell_tax": 0.0005,
+  "transfer_fee": 0.00001,
+  "slippage": 0.0005
+}

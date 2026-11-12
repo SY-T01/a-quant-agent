@@ -1,0 +1,9 @@
+{
+  "version": "research-lab-v1",
+  "mode": "parallel_research_only",
+  "industry_weights": {"flow": 35, "strength": 30, "breadth": 15, "fundamental": 10, "event": 10},
+  "stock_weights": {"volume_flow": 30, "strength": 25, "quality": 20, "valuation": 10, "risk": 15},
+  "study_limits": {"max_stocks": 5, "max_single_weight": 0.1, "max_industry_weight": 0.25, "min_cash_weight": 0.25},
+  "forward_sessions": [5, 10, 20],
+  "production_promotion": false
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "cash": 90000,
+  "confirmed_at": "2026-11-04T09:30:00+08:00",
+  "permissions": [
+    "MAIN"
+  ],
+  "holdings": {
+    "600001.SH": {
+      "shares": 500,
+      "available": 300,
+      "cost": 13,
+      "board": "MAIN",
+      "industry": "演示行业A"
+    }
+  }
+}

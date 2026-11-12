@@ -1,0 +1,44 @@
+# Private local state and generated research files.
+runtime/
+data/
+reports/
+.env
+.env.*
+!.env.example
+*secrets*.json
+*credentials*.json
+*.pem
+*.key
+*.sqlite*
+*.db
+*.db-*
+*.log
+/stock_selecter/configs/research_preferences.json
+/stock_selecter/configs/pdf.json
+
+# Local environments, generated native apps, caches and export archives.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+exports/
+*.app/
+*.dylib
+*.so
+*.zip
+.DS_Store
+._*
+.codex/
+.agents/
+.aws/
+
+# Original user documents are not source files.
+*.docx
+*.pdf
+*.xlsx

@@ -1,0 +1,24 @@
+{
+  "max_equity": 0.85,
+  "max_stock": 0.10,
+  "max_industry": 0.25,
+  "risk_per_stock": 0.005,
+  "participation": 0.01,
+  "atr_multiple": 2,
+  "quote_ttl_seconds": 120,
+  "account_ttl_hours": 8,
+  "valid_minutes": 10,
+  "fees": {
+    "commission_rate": 0.0003,
+    "minimum_commission": 5,
+    "transfer_rate": 0.00001,
+    "sell_tax_rate": 0.0005,
+    "slippage": 0.002
+  },
+  "rules": {
+    "version": "research-2026-11-04",
+    "effective_from": "2026-07-06",
+    "reviewed_through": "2026-11-04"
+  },
+  "deepseek_model": "deepseek-flash"
+}

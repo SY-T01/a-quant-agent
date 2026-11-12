@@ -1,0 +1,77 @@
+{
+  "summary": "规则基线：趋势、动量及行业强弱共同判断；评分不代表收益概率。",
+  "recommendations": [
+    {
+      "symbol": "600000.SH",
+      "action": "BUY",
+      "reason": "趋势1，动量0.67，综合评分0.75",
+      "evidence_ids": [
+        "quant:600000.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    },
+    {
+      "symbol": "600002.SH",
+      "action": "BUY",
+      "reason": "趋势1，动量0.63，综合评分0.74",
+      "evidence_ids": [
+        "quant:600002.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    },
+    {
+      "symbol": "600003.SH",
+      "action": "BUY",
+      "reason": "趋势1，动量0.61，综合评分0.73",
+      "evidence_ids": [
+        "quant:600003.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    },
+    {
+      "symbol": "600004.SH",
+      "action": "BUY",
+      "reason": "趋势1，动量0.59，综合评分0.72",
+      "evidence_ids": [
+        "quant:600004.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    },
+    {
+      "symbol": "600005.SH",
+      "action": "BUY",
+      "reason": "趋势1，动量0.57，综合评分0.71",
+      "evidence_ids": [
+        "quant:600005.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    },
+    {
+      "symbol": "600006.SH",
+      "action": "BUY",
+      "reason": "趋势1，动量0.55，综合评分0.71",
+      "evidence_ids": [
+        "quant:600006.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    },
+    {
+      "symbol": "600007.SH",
+      "action": "BUY",
+      "reason": "趋势1，动量0.53，综合评分0.70",
+      "evidence_ids": [
+        "quant:600007.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    },
+    {
+      "symbol": "600001.SH",
+      "action": "SELL",
+      "reason": "趋势-1，动量-0.53，综合评分-0.74",
+      "evidence_ids": [
+        "quant:600001.SH"
+      ],
+      "uncertainty": "规则未经收益准入验证"
+    }
+  ]
+}

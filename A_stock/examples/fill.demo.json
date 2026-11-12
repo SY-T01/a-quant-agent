@@ -1,0 +1,11 @@
+{
+  "id": "demo-execution-001",
+  "symbol": "600000.SH",
+  "side": "BUY",
+  "quantity": 200,
+  "price": 10,
+  "fee": 5,
+  "board": "MAIN",
+  "industry": "演示行业A",
+  "at": "2026-11-04T09:40:00+08:00"
+}

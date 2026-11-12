@@ -1,0 +1,8 @@
+{
+  "instruments": [{"query": "159567", "type": "etf"}],
+  "schedule": ["14:00"],
+  "start_date": "20240101",
+  "model": "deepseek-flash",
+  "state_dir": "runtime/watch",
+  "secrets_file": "runtime/watch-secrets.json"
+}

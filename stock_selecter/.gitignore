@@ -1,0 +1,37 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+._*
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+.codex/
+.agents/
+
+# Runtime data, original disclosures, model responses and personal reports stay local.
+/data/
+/reports/
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+
+# Personal budget and local Python/font paths; publish only the example files.
+/configs/research_preferences.json
+/configs/pdf.json
+
+# User-provided documents are not source code.
+*.docx
+*.pdf
+*.xlsx
+*.zip
+*.pem
+*.key
